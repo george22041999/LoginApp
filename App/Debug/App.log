@@ -1,0 +1,5 @@
+﻿  App.cpp
+  Login.cpp
+  Generating Code...
+C:\Users\ghghjg\Desktop\App\App\Login.cpp(24,20): warning C4018:  '<': signed/unsigned mismatch
+  App.vcxproj -> C:\Users\ghghjg\Desktop\App\Debug\App.exe
